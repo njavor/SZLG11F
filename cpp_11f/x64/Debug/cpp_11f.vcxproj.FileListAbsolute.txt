@@ -1,1 +1,2 @@
 C:\Users\0\source\repos\cpp_11f\x64\Debug\cpp_11f.exe
+D:\.programming\SZLG11F\cpp_11f\x64\Debug\cpp_11f.exe
