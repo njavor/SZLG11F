@@ -11,10 +11,13 @@ int main()
 
     vector<pair<int, int>> theList(N);
 
+#pragma region readIn
     for (auto& par : theList)
     {
         cin >> par.first >> par.second;
     }
+#pragma endregion
+
 
     int stops = 0;
 
@@ -24,9 +27,12 @@ int main()
     while (travelled < K)
     {
         range = (B / L) * 100;
-        if (K <= travelled + range) { travelled = K; }
-        else {
-            while (i < N && theList[i].first <= range) { i++; }
+        if (K <= travelled + range)
+            travelled = K;
+        else
+        {
+            while (i < N && theList[i].first <= range + travelled)
+                i++;
 
             B -= ((theList[i - 1].first - travelled) / 100 * L);
             B += theList[i - 1].second;
