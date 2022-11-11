@@ -2,7 +2,6 @@
 #include <vector>
 #include <algorithm>
 
-
 using namespace std;
 
 int main()
@@ -10,31 +9,32 @@ int main()
     int K, N, B, L;
     cin >> K >> N >> B >> L;
 
-    vector<pair<int, int>> list(N);
+    vector<pair<int, int>> theList(N);
 
-    for (auto& i : list)
+    for (auto& par : theList)
     {
-        cin >> i.first >> i.second;
+        cin >> par.first >> par.second;
     }
 
-    int travelled = 0;
-    int maxBenzin = 0;
     int stops = 0;
-    while (travelled <= K)
+
+    int range;
+    int travelled = 0;
+    int i = 0;
+    while (travelled < K)
     {
-        int range = (B / L) * 100;
-        int i = 0;
-        while (list[i].first <= range)
-        {
-            if (list[i].second > maxBenzin) {
-                maxBenzin = list[i].second;
-                travelled += list[i].first - travelled;
-                B = B % L;
-                stops++;
-            }
-            i++;
+        range = (B / L) * 100;
+        if (K <= travelled + range) { travelled = K; }
+        else {
+            while (i < N && theList[i].first <= range) { i++; }
+
+            B -= ((theList[i - 1].first - travelled) / 100 * L);
+            B += theList[i - 1].second;
+
+            travelled += theList[i - 1].first - travelled;
+            stops++;
         }
-        B += maxBenzin;
     }
+
     cout << stops;
 }
