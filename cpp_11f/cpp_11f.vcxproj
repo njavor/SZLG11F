@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="moho_auto.cpp" />
     <ClCompile Include="moho_foto.cpp" />
+    <ClCompile Include="moho_vallalkozo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

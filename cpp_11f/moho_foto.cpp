@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -34,3 +35,4 @@ int main() {
     for (auto& hour : photoTimes)
         cout << hour << " ";
 }
+*/
