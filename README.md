@@ -1,4 +1,8 @@
-# 2022-23
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">2022-23</h1></summary>
+  </ul>
+</div>
 
 ## Témakörök
 1. Mohó algoritmusok
