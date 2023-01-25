@@ -1,12 +1,15 @@
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">2022-23</h1></summary>
+    <summary><h1 style="display: inline-block;">SZLG 11F (2022-23)</h1></summary>
   </ul>
 </div>
 
 ## Témakörök
 1. Mohó algoritmusok
 2. Visszalépéses keresés
+
+## 2. Visszalépéses keresés
+- [N királynő probléma](megoldasok/2_visszalepeses_kereses/n_kiralyno_problema/backtrack_nkiralyno.cs)
 
 ## Házi feladatok
 1. Mohó algoritmusok
