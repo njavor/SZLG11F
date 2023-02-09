@@ -7,6 +7,8 @@
 ## Témakörök
 1. Mohó algoritmusok
 2. Visszalépéses keresés
+3. Középszintű érettségi készülés
+    1. Adatbázis (SQL, Microsoft Access)
 
 ## 2. Visszalépéses keresés
 - [N királynő probléma](megoldasok/2_visszalepeses_kereses/n_kiralyno_problema/backtrack_nkiralyno.cs)
