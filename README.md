@@ -9,9 +9,9 @@
 ## Házi feladatok
 | Témakör | Feladat | /100 |
 | :---: | :---: | :---: |
-| **MOHÓ** | [Mester -> Haladó -> Mohó algoritmusok -> 9. Fénykép](hazi/moho-foto/moho_foto.cpp) | 100 |
-| **MOHÓ** | [Mester -> Haladó -> Mohó algoritmusok -> 5. Autó](hazi/moho-auto/moho_auto.cpp) | 54 |
-| **BACKTRACK** | [Mester -> Haladó -> Visszalépéses keresés -> 17. Iskolaválasztás](hazi/backtrack-iskolavalasztas/backtrack_iskolavalasztas.cs) | 90 |
+| **MOHÓ** | [Haladó -> Mohó algoritmusok -> 9. Fénykép](hazi/moho-foto/moho_foto.cpp) | 100 |
+| **MOHÓ** | [Haladó -> Mohó algoritmusok -> 5. Autó](hazi/moho-auto/moho_auto.cpp) | 54 |
+| **BACKTRACK** | [Haladó -> Visszalépéses keresés -> 17. Iskolaválasztás](hazi/backtrack-iskolavalasztas/backtrack_iskolavalasztas.cs) | 90 |
 
 ## Órai feladatok
 ### 1. [Mohó algoritmusok](1_moho)
