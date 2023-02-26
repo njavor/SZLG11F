@@ -14,6 +14,7 @@
 | **BACKTRACK** | [Haladó -> Visszalépéses keresés -> 17. Iskolaválasztás](hazi/backtrack-iskolavalasztas/backtrack_iskolavalasztas.cs) | 90 |
 | **SQL** | [Adatbázis-kezelés: Családfa](3_erettsegi/1_adatbazis/1_csaladfa) | - |
 | **SQL** | [Adatbázis-kezelés érettségi: Akadémikusok](hazi/sql-akademikusok) | - |
+| **SQL** | [Adatbázis-kezelés érettségi: Diákmunka](hazi/sql-diakmunka) | - |
 
 ## Órai feladatok
 ### 1. [Mohó algoritmusok](1_moho)
