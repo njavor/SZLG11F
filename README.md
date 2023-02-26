@@ -15,6 +15,8 @@
 | **SQL** | [Adatbázis-kezelés: Családfa](3_erettsegi/1_adatbazis/1_csaladfa) | - |
 | **SQL** | [Adatbázis-kezelés érettségi: Akadémikusok](hazi/sql-akademikusok) | - |
 | **SQL** | [Adatbázis-kezelés érettségi: Diákmunka](hazi/sql-diakmunka) | - |
+| **SQL** | [Adatbázis-kezelés érettségi: Cukrászda](hazi/sql-cukraszda) | - |
+| **SQL** | [Adatbázis-kezelés érettségi: Balatoni hajók](hazi/sql-balatoni_hajok) | - |
 
 ## Órai feladatok
 ### 1. [Mohó algoritmusok](1_moho)
