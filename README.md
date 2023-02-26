@@ -25,3 +25,6 @@
 - [Nkirálynő probléma](2_backtrack/feladatok/nkiralyno.cs)
 
 ### 3. [Középszintű érettségi készülés](3_erettsegi)
+#### 1. Adatbázis (SQL, Microsoft Access)
+- [Családfa](3_erettsegi/1_adatbazis/1_csaladfa)
+- [Pontok](3_erettsegi/1_adatbazis/2_pontok)
