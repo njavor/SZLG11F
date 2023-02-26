@@ -101,7 +101,7 @@ FROM (SELECT szulo FROM G
 GROUP BY szulo);
 ```
 
-#### 3. Szülők (névvel), vezetéknév *((majd keresztnév))* szerint ábécésorrendben
+#### 3. Szülők (névvel), vezetéknév *(majd keresztnév)* szerint ábécésorrendben
 ```sql
 SELECT veznev, kernev
 FROM U INNER JOIN G ON U.id = G.szulo
@@ -130,7 +130,7 @@ FROM (SELECT gyerek FROM G
 GROUP BY gyerek);
 ```
 
-#### 7. Gyermekek (névvel), vezetéknév *((majd keresztnév))* szerint ábécésorrendben
+#### 7. Gyermekek (névvel), vezetéknév *(majd keresztnév)* szerint ábécésorrendben
 ```sql
 SELECT veznev, kernev
 FROM U INNER JOIN G ON U.id = G.gyerek
