@@ -2,8 +2,7 @@
 
 ### 2. Élő akadémikusok ábécé sorrendben
 ```sql
-SELECT *
-FROM tag
+SELECT * FROM tag
 WHERE elhunyt IS NULL
 ORDER BY nev;
 ```
