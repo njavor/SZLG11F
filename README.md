@@ -12,6 +12,8 @@
 | **MOHÓ** | [Haladó -> Mohó algoritmusok -> 9. Fénykép](hazi/moho-foto/moho_foto.cpp) | 100 |
 | **MOHÓ** | [Haladó -> Mohó algoritmusok -> 5. Autó](hazi/moho-auto/moho_auto.cpp) | 54 |
 | **BACKTRACK** | [Haladó -> Visszalépéses keresés -> 17. Iskolaválasztás](hazi/backtrack-iskolavalasztas/backtrack_iskolavalasztas.cs) | 90 |
+| **SQL** | [Adatbázis-kezelés: Családfa](3_erettsegi/1_adatbazis/1_csaladfa) | - |
+| **SQL** | [Adatbázis-kezelés érettségi: Akadémikusok](hazi/sql-akademikusok) | - |
 
 ## Órai feladatok
 ### 1. [Mohó algoritmusok](1_moho)
