@@ -16,13 +16,17 @@ namespace nkiralyno
             for (int i = 0; i < azoszlop; i++)
                 if (asor == tabla[i] || azoszlop - asor == i - tabla[i] || azoszlop + asor == i + tabla[i])
                     return false;
-
             return true;
         }
 
         static void Nkiralyno(int oszlop)
         {
-            if (oszlop == N) { return; }
+            if (oszlop == N)
+            {
+                for (int i = 0; i < N; i++)
+                    Console.Write(tabla[i]+1 + " ");
+                N = 0;
+            }
 
             for (int sor = 0; sor < N; sor++)
             {
@@ -33,15 +37,14 @@ namespace nkiralyno
                 }
             }
         }
+
         static void Main(string[] args)
         {
             N = int.Parse(Console.ReadLine());
             tabla = new int[N];
+            
             Nkiralyno(0);
-
-            Console.WriteLine();
-            for (int i = 0;i < N; i++)
-                Console.Write(tabla[i] + " ");
+            if (N != 0) { Console.WriteLine(-1); }
         }
     }
 }
