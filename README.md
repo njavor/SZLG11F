@@ -5,6 +5,7 @@
 2. [Visszalépéses keresés](2_backtrack)
 3. [Középszintű érettségi készülés](3_erettsegi)
     1. Adatbázis (SQL, Microsoft Access)
+    2. Táblázatkezelés (Microsoft Excel)
 
 ## Házi feladatok
 | Témakör | Feladat | /100 |
