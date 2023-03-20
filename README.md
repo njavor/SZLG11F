@@ -1,6 +1,6 @@
 # SZLG 11F (2022-23)
 
-## Témakörök és feladatok
+## Témakörök
 1. [Mohó algoritmusok](1_moho)
 2. [Visszalépéses keresés](2_backtrack)
 3. [Középszintű érettségi készülés](3_erettsegi)
@@ -27,6 +27,9 @@
 - [Nkirálynő probléma](2_backtrack/feladatok/nkiralyno.cs)
 
 ### 3. [Középszintű érettségi készülés](3_erettsegi)
-#### 1. Adatbázis (SQL, Microsoft Access)
-- [Családfa](3_erettsegi/1_adatbazis/1_csaladfa)
-- [Pontok](3_erettsegi/1_adatbazis/2_pontok)
+1. Adatbázis (SQL, Microsoft Access)
+    - [Családfa](3_erettsegi/1_adatbazis/1_csaladfa)
+    - [Pontok](3_erettsegi/1_adatbazis/2_pontok)
+2. Táblázatkezelés (Microsoft Excel)
+    - [Fogyasztás](3_erettsegi/2_tablazat/1_fogyasztas/)
+    - [Segítők](3_erettsegi/2_tablazat/2_segitok/)
