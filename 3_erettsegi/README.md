@@ -1,4 +1,4 @@
-# Középszintű érettségi készülés
+# Középszintű érettségi
 
 ## 1. Adatbázis (SQL, Microsoft Access)
 

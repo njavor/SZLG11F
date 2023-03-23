@@ -3,7 +3,7 @@
 ## Témakörök
 1. [Mohó algoritmusok](1_moho)
 2. [Visszalépéses keresés](2_backtrack)
-3. [Középszintű érettségi készülés](3_erettsegi)
+3. [Középszintű érettségi](3_erettsegi)
     1. Adatbázis (SQL, Microsoft Access)
     2. Táblázatkezelés (Microsoft Excel)
 
@@ -26,10 +26,12 @@
 ### 2. [Visszalépéses keresés](2_backtrack)
 - [Nkirálynő probléma](2_backtrack/feladatok/nkiralyno.cs)
 
-### 3. [Középszintű érettségi készülés](3_erettsegi)
+### 3. [Középszintű érettségi](3_erettsegi)
 1. Adatbázis (SQL, Microsoft Access)
     - [Családfa](3_erettsegi/1_adatbazis/1_csaladfa)
     - [Pontok](3_erettsegi/1_adatbazis/2_pontok)
 2. Táblázatkezelés (Microsoft Excel)
     - [Fogyasztás](3_erettsegi/2_tablazat/1_fogyasztas/)
     - [Segítők](3_erettsegi/2_tablazat/2_segitok/)
+    - [Posta](3_erettsegi/2_tablazat/3_posta/)
+    - [Nyelvtudás](3_erettsegi/2_tablazat/4_nyelvtudas/)
