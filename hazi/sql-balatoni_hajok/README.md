@@ -19,7 +19,6 @@ WHERE hajo.nev LIKE "*Balaton*";
 SELECT tipus, COUNT(*) FROM hajo
 GROUP BY tipus
 ORDER BY COUNT(*) DESC;
-
 ```
 
 ### 5. Névváltoztatás nélküli hajók
