@@ -1,66 +1,28 @@
 # Középszintű érettségi
 
+### [2023. május 15. 8:00 - digitális kultúra](erettsegi)
+
 ## 1. Adatbázis (SQL, Microsoft Access)
+
+### Órai feladatok
+1. [Családfa](1_adatbazis/1_csaladfa)
+2. [Pontok](1_adatbazis/2_pontok)
+
+### Záradékok sorrendje
+| # | név | rendeltetés |
+| :-: | :-: | :-: |
+| **1.** | **SELECT** | A vizsgált adatokat tartalmazó mezőket sorolja fel. |
+| **2.** | **FROM** | A SELECT záradékban felsorolt mezőket tartalmazó táblákat sorolja fel. |
+| **3.** | **WHERE** | Meghatározza azokat a mezőfeltételeket, amelyek alapján az egyes rekordok bekerülnek az eredmények közé. |
+| **4.** | **GROUP BY** | Az összegző függvényeket tartalmazó SQL-utasításokban felsorolja azokat a mezőket, amelyek a SELECT záradékban nem szerepeltek. |
+| **5.** | **HAVING** | Megadja az eredmények rendezésének módját. |
+| **6.** | **ORDER BY** | Megadja az eredmények rendezésének módját. |
 
 
 
 ## 2. Táblázatkezelés (Microsoft Excel)
-
-### Matematikai függvények
-#### ABS
-abszolút érték képzése
-
-#### SZUM
-számok összeadása
-
-#### SZUMHA
-feltételekkel kiválasztott számok összeadása
-
-#### SZUMHATÖBB
-feltételekkel kiválasztott számok összeadása
-
-#### SZORZATÖSSZEG
-adatpárok összeszorzása, a szorzatok összeadása
-
-#### KEREKÍTÉS
-kerekítés a nullához közelítve, távolodva
-
-#### KEREK.FEL
-kerekítés a nullától távolodva
-
-#### KEREK.LE
-kerekítés a nullához közelítve
-
-
-### Statisztikai függvények
-#### DARAB
-számot tartalmazó cellák megszámlálása
-
-#### DARAB2
-nem üres cellák megszámlálása
-
-#### DARABÜRES
-üres cellák megszámlálása
-
-#### DARABTELI
-feltételekkel meghatározott tartalmú cellák megszámlálása
-
-#### DARABHATÖBB
-feltételekkel meghatározott tartalmú cellák megszámlálása
-
-#### MAX
-legnagyobb szám kiválasztása
-
-#### NAGY
-meghatározott sorszámú elem kiválasztása a rangsor elejéről, végéről
-
-#### KICSI
-meghatározott sorszámú elem kiválasztása a rangsor elejéről, végéről
-
-#### MIN
-
-#### RANG.EGY
-
-#### ÁTLAG
-
-#### ÁTLAGHA
+### Órai feladatok
+1. [Fogyasztás](2_tablazat/1_fogyasztas/)
+2. [Segítők](2_tablazat/2_segitok/)
+3. [Posta](2_tablazat/3_posta/)
+4. [Nyelvtudás](2_tablazat/4_nyelvtudas/)

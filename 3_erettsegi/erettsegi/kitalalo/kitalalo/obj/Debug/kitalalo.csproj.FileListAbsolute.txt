@@ -1,0 +1,16 @@
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\bin\Debug\kitalalo.exe.config
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\bin\Debug\kitalalo.exe
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\bin\Debug\kitalalo.pdb
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.AssemblyReference.cache
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.SuggestedBindingRedirects.cache
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.CoreCompileInputs.cache
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\obj\Debug\kitalalo.exe
+C:\Users\érettségi\source\repos\kitalalo\kitalalo\obj\Debug\kitalalo.pdb
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\bin\Debug\kitalalo.exe.config
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\bin\Debug\kitalalo.exe
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\bin\Debug\kitalalo.pdb
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.AssemblyReference.cache
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.SuggestedBindingRedirects.cache
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.CoreCompileInputs.cache
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\obj\Debug\kitalalo.exe
+D:\.programming\SZLG11F\3_erettsegi\erettsegi\kitalalo\kitalalo\obj\Debug\kitalalo.pdb
