@@ -10,11 +10,11 @@
 
 ### Záradékok sorrendje
 | # | név | rendeltetés |
-| :-: | :-: | :-: |
+| :-: | :-: | :- |
 | **1.** | **SELECT** | A vizsgált adatokat tartalmazó mezőket sorolja fel. |
 | **2.** | **FROM** | A SELECT záradékban felsorolt mezőket tartalmazó táblákat sorolja fel. |
-| **3.** | **WHERE** | Meghatározza azokat a mezőfeltételeket, amelyek alapján az egyes rekordok bekerülnek az eredmények közé. |
-| **4.** | **GROUP BY** | Az összegző függvényeket tartalmazó SQL-utasításokban felsorolja azokat a mezőket, amelyek a SELECT záradékban nem szerepeltek. |
+| **3.** | **WHERE** | Meghatározza azokat a mezőfeltételeket, amelyek alapján az egyes<br> rekordok bekerülnek az eredmények közé. |
+| **4.** | **GROUP BY** | Az összegző függvényeket tartalmazó SQL-utasításokban felsorolja<br> azokat a mezőket, amelyek a SELECT záradékban nem szerepeltek. |
 | **5.** | **HAVING** | Megadja az eredmények rendezésének módját. |
 | **6.** | **ORDER BY** | Megadja az eredmények rendezésének módját. |
 
